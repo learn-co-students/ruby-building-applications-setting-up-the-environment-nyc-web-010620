@@ -11,3 +11,5 @@ class Garden
     end
   end
 end
+
+#used in the bin/run 
